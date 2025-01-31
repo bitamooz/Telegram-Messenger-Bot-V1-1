@@ -1,6 +1,6 @@
 <?php
 
-$admin_id = "USERID";  // شناسه کاربری ادمین
+$admin_id = "ADMINID";  // شناسه کاربری ادمین
 define('BOT_TOKEN', 'TOKEN');  // توکن ربات
 
 function TelAPIBitAmooz($method, $parameters = []) {
